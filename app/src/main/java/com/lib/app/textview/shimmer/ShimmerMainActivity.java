@@ -5,6 +5,8 @@ import android.os.Bundle;
 import android.view.View;
 
 import com.lib.app.R;
+import com.lib.widget.textview.shimmer.Shimmer;
+import com.lib.widget.textview.shimmer.ShimmerTextView;
 
 
 public class ShimmerMainActivity extends Activity {

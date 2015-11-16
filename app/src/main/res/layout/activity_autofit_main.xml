@@ -33,7 +33,7 @@
             android:layout_height="wrap_content"
             android:text="@string/label_autofit"
             />
-        <com.blue.leaves.textview.autofit.AutofitTextView
+        <com.lib.widget.textview.autofit.AutofitTextView
             android:id="@+id/output_autofit"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

@@ -21,6 +21,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
 import com.lib.app.R;
+import com.lib.widget.textview.jumpingbeans.JumpingBeans;
 
 
 public class JumpingBeanMainActivity extends AppCompatActivity {

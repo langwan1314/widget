@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     tools:context="com.romainpiel.titanic.sample.MainActivity">
 
-    <com.lib.app.textview.titanic.TitanicTextView
+    <com.lib.widget.textview.titanic.TitanicTextView
         android:id="@+id/my_text_view"
         android:text="@string/loading"
         android:layout_width="match_parent"

@@ -10,12 +10,12 @@ import android.view.MenuItem;
 import android.widget.EditText;
 
 import com.lib.app.R;
-import com.lib.app.textview.tagview.Tag.Constants;
-import com.lib.app.textview.tagview.Tag.OnTagClickListener;
-import com.lib.app.textview.tagview.Tag.OnTagDeleteListener;
-import com.lib.app.textview.tagview.Tag.Tag;
-import com.lib.app.textview.tagview.Tag.TagClass;
-import com.lib.app.textview.tagview.Tag.TagView;
+import com.lib.widget.textview.tagview.Tag.Constants;
+import com.lib.widget.textview.tagview.Tag.OnTagClickListener;
+import com.lib.widget.textview.tagview.Tag.OnTagDeleteListener;
+import com.lib.widget.textview.tagview.Tag.Tag;
+import com.lib.widget.textview.tagview.Tag.TagClass;
+import com.lib.widget.textview.tagview.Tag.TagView;
 
 import org.json.JSONArray;
 import org.json.JSONObject;

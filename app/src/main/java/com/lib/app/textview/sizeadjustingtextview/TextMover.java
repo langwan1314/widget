@@ -1,6 +1,7 @@
 package com.lib.app.textview.sizeadjustingtextview;
 
 
+import com.lib.widget.textview.sizeadjustingtextview.SizeAdjustingTextView;
 
 /**
  * Created by chenger on 5/26/14.

@@ -10,8 +10,8 @@ import android.graphics.drawable.InsetDrawable;
 import android.graphics.drawable.LayerDrawable;
 import android.util.TypedValue;
 
-import com.lib.app.textview.textdrawable.TextDrawable;
-import com.lib.app.textview.textdrawable.util.ColorGenerator;
+import com.lib.widget.textview.textdrawable.TextDrawable;
+import com.lib.widget.textview.textdrawable.util.ColorGenerator;
 
 
 /**

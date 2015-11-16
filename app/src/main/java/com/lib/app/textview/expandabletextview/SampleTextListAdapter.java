@@ -8,6 +8,7 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 
 import com.lib.app.R;
+import com.lib.widget.textview.expandabletextview.ExpandableTextView;
 
 
 public class SampleTextListAdapter extends BaseAdapter {

@@ -6,6 +6,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.lib.app.R;
+import com.lib.widget.textview.trianglerectanglelabelview.TriangleRectangleLabelView;
 
 public class TriangleRectangleMainActivity extends ActionBarActivity {
 

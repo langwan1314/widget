@@ -6,7 +6,7 @@
     android:orientation="vertical"
     android:padding="3dp">
 
-    <com.lib.app.textview.chatmessageview.chatmessageview.ChatMessageView
+    <com.lib.widget.textview.chatmessageview.chatmessageview.ChatMessageView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:cmv_arrowGravity="start"
@@ -21,6 +21,6 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/hello_world" />
-    </com.lib.app.textview.chatmessageview.chatmessageview.ChatMessageView>
+    </com.lib.widget.textview.chatmessageview.chatmessageview.ChatMessageView>
 
 </LinearLayout>

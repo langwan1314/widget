@@ -9,7 +9,7 @@
     >
 
 
-  <com.lib.app.textview.codeinputlib.CodeInput
+  <com.lib.widget.textview.codeinputlib.CodeInput
       android:layout_marginTop="20dp"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
@@ -17,7 +17,7 @@
       android:id="@+id/pairing"
       />
 
-  <com.lib.app.textview.codeinputlib.CodeInput
+  <com.lib.widget.textview.codeinputlib.CodeInput
       android:layout_marginTop="20dp"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
@@ -29,7 +29,7 @@
       app:codes="4"
       />
 
-  <com.lib.app.textview.codeinputlib.CodeInput
+  <com.lib.widget.textview.codeinputlib.CodeInput
       android:layout_marginTop="20dp"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"
@@ -41,7 +41,7 @@
       app:codes="8"
       />
 
-  <com.lib.app.textview.codeinputlib.CodeInput
+  <com.lib.widget.textview.codeinputlib.CodeInput
       android:layout_marginTop="20dp"
       android:layout_width="wrap_content"
       android:layout_height="wrap_content"

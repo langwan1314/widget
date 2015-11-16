@@ -24,6 +24,7 @@ import android.support.v7.app.ActionBarActivity;
 import android.view.View;
 
 import com.lib.app.R;
+import com.lib.widget.textview.babushkatext.BabushkaText;
 
 public class BabushkatextMainActivity extends ActionBarActivity {
 

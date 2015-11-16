@@ -15,6 +15,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.lib.app.R;
+import com.lib.widget.textview.expandabletextview.ExpandableTextView;
 
 
 /**

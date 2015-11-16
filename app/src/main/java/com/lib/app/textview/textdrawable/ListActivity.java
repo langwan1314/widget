@@ -13,7 +13,8 @@ import android.widget.TextView;
 
 import com.lib.app.R;
 import com.lib.app.textview.textdrawable.sample.DrawableProvider;
-import com.lib.app.textview.textdrawable.util.ColorGenerator;
+import com.lib.widget.textview.textdrawable.TextDrawable;
+import com.lib.widget.textview.textdrawable.util.ColorGenerator;
 
 import java.util.Arrays;
 import java.util.List;

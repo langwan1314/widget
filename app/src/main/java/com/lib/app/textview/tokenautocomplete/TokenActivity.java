@@ -10,6 +10,8 @@ import android.widget.Button;
 import android.widget.TextView;
 
 import com.lib.app.R;
+import com.lib.widget.textview.tokenautocomplete.FilteredArrayAdapter;
+import com.lib.widget.textview.tokenautocomplete.TokenCompleteTextView;
 
 import java.util.List;
 

@@ -9,7 +9,7 @@
                 tools:context=".MainActivity"
                 android:background="#ffaa66cc">
 
-    <com.lib.app.textview.parkedtextview.ParkedTextView
+    <com.lib.widget.textview.parkedtextview.ParkedTextView
             xmlns:app="http://schemas.android.com/apk/res-auto"
             android:id="@+id/parked_text_view"
             android:layout_width="wrap_content"

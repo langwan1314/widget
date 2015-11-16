@@ -235,7 +235,7 @@
     </LinearLayout>
   </HorizontalScrollView>
 
-  <com.lib.app.textview.richeditor.RichEditor
+  <com.lib.widget.textview.richeditor.RichEditor
     android:id="@+id/editor"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"

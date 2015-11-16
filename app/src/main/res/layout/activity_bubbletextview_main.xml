@@ -17,7 +17,7 @@
             >
 
         <!-- 深色样式，向下箭头，位置50%-->
-        <com.lib.app.textview.bubbletextview.LeBubbleTextView
+        <com.lib.widget.textview.bubbletextview.LeBubbleTextView
                 android:layout_marginTop="50dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -26,7 +26,7 @@
                 app:bubbleArrowDirection="bottom"
                 />
         <!-- 深色样式，向右箭头，位置50%-->
-        <com.lib.app.textview.bubbletextview.LeBubbleTextView
+        <com.lib.widget.textview.bubbletextview.LeBubbleTextView
                 android:layout_marginTop="50dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -45,7 +45,7 @@
             android:background="#212121"
             >
         <!-- 浅色样式，向左箭头，位置60%-->
-        <com.lib.app.textview.bubbletextview.LeBubbleTextView
+        <com.lib.widget.textview.bubbletextview.LeBubbleTextView
                 android:layout_marginTop="50dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
@@ -55,7 +55,7 @@
                 style="@style/LeBubbleTextView.Light"
                 />
         <!-- 浅色样式，向上箭头，位置60%-->
-        <com.lib.app.textview.bubbletextview.LeBubbleTextView
+        <com.lib.widget.textview.bubbletextview.LeBubbleTextView
                 android:layout_marginTop="50dp"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"

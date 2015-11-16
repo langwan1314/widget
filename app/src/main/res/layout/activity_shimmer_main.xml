@@ -3,7 +3,7 @@
              android:layout_height="match_parent"
              android:background="#242424">
 
-    <com.lib.app.textview.shimmer.ShimmerTextView
+    <com.lib.widget.textview.shimmer.ShimmerTextView
         android:id="@+id/shimmer_tv"
         android:text="@string/shimmer"
         android:layout_width="wrap_content"

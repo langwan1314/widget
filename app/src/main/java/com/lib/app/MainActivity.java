@@ -16,9 +16,9 @@ public class MainActivity extends Activity {
 
     private ListView mListView = null;
     private String[] mListString = {
-            "adapter", "textView", "animation"
+            "textView"
     };
-    private Class[] mListClass = { TextViewMainActivity.class};
+    private Class[] mListClass = {TextViewMainActivity.class};
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

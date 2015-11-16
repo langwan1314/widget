@@ -10,6 +10,7 @@ import android.widget.TextView;
 import android.widget.TextView.OnEditorActionListener;
 
 import com.lib.app.R;
+import com.lib.widget.textview.sizeadjustingtextview.SizeAdjustingTextView;
 
 
 public class SizeAdjustingMainActivity extends Activity {

@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical" >
 
-    <com.lib.app.textview.expandabletextview.ExpandableTextView
+    <com.lib.widget.textview.expandabletextview.ExpandableTextView
         android:id="@+id/expand_text_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -30,6 +30,6 @@
             android:layout_margin="16dp"
             android:layout_gravity="right|bottom"
             android:background="@android:color/transparent"/>
-    </com.lib.app.textview.expandabletextview.ExpandableTextView>
+    </com.lib.widget.textview.expandabletextview.ExpandableTextView>
 
 </LinearLayout>

@@ -10,7 +10,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.wrapp.example.floatlabelededittext.MainActivity">
 
-    <com.lib.app.textview.floatlabelededittext.FloatLabeledEditText
+    <com.lib.widget.textview.floatlabelededittext.FloatLabeledEditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
@@ -18,10 +18,10 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="This is the hint" />
-    </com.lib.app.textview.floatlabelededittext.FloatLabeledEditText>
+    </com.lib.widget.textview.floatlabelededittext.FloatLabeledEditText>
 
     <!-- add some padding -->
-    <com.lib.app.textview.floatlabelededittext.FloatLabeledEditText
+    <com.lib.widget.textview.floatlabelededittext.FloatLabeledEditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         float:fletPadding="10dp">
@@ -30,10 +30,10 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Username" />
-    </com.lib.app.textview.floatlabelededittext.FloatLabeledEditText>
+    </com.lib.widget.textview.floatlabelededittext.FloatLabeledEditText>
 
     <!-- password input -->
-    <com.lib.app.textview.floatlabelededittext.FloatLabeledEditText
+    <com.lib.widget.textview.floatlabelededittext.FloatLabeledEditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         float:fletPaddingBottom="10dp">
@@ -43,10 +43,10 @@
             android:layout_height="wrap_content"
             android:hint="Password"
             android:inputType="textPassword" />
-    </com.lib.app.textview.floatlabelededittext.FloatLabeledEditText>
+    </com.lib.widget.textview.floatlabelededittext.FloatLabeledEditText>
 
     <!-- change color of hint text-->
-    <com.lib.app.textview.floatlabelededittext.FloatLabeledEditText
+    <com.lib.widget.textview.floatlabelededittext.FloatLabeledEditText
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         float:fletPaddingBottom="10dp"
@@ -57,6 +57,6 @@
             android:layout_height="wrap_content"
             android:hint="Styled Hint"
             android:inputType="textPassword" />
-    </com.lib.app.textview.floatlabelededittext.FloatLabeledEditText>
+    </com.lib.widget.textview.floatlabelededittext.FloatLabeledEditText>
 
 </LinearLayout>

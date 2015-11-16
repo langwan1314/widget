@@ -4,6 +4,8 @@ import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 
 import com.lib.app.R;
+import com.lib.widget.textview.titanic.Titanic;
+import com.lib.widget.textview.titanic.TitanicTextView;
 
 
 public class TitanicMainActivity extends ActionBarActivity {

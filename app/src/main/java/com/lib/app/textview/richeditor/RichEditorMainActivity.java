@@ -7,6 +7,7 @@ import android.view.View;
 import android.widget.TextView;
 
 import com.lib.app.R;
+import com.lib.widget.textview.richeditor.RichEditor;
 
 public class RichEditorMainActivity extends AppCompatActivity {
 
