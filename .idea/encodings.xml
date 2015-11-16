@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lib/app/textview/autofit/AutoFitActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lib/app/textview/babushkatext/BabushkatextMainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lib/app/textview/floatlabelededittext/FloatableEdittextMainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lib/app/textview/textdrawable/ListActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lib/app/textview/textdrawable/TextDrawableMainActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lib/app/textview/textdrawable/sample/DataItem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lib/app/textview/textdrawable/sample/DataSource.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lib/app/textview/textdrawable/sample/DrawableProvider.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lib/app/textview/titanic/Typefaces.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lib/app/textview/tokenautocomplete/ContactsCompletionView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lib/app/textview/tokenautocomplete/Person.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/lib/app/textview/tokenautocomplete/TokenActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/check_sm.9.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_action_next_item.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/token_background.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/token_default.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/token_selected.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_autofit_main.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_babushkatextmain.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_floatlabeledittext_main.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_text_drawable_main.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_textdrawable_list.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_titanic_main.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_tokenautocomplete_main.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/contact_token.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/person_layout.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/text_drawable_list_item_layout.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/src/main/java/com/lib/app/textview/autofit/AutofitHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/src/main/java/com/lib/app/textview/autofit/AutofitLayout.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/src/main/java/com/lib/app/textview/autofit/AutofitTextView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/src/main/java/com/lib/app/textview/babushkatext/BabushkaText.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/src/main/java/com/lib/app/textview/floatlabelededittext/FloatLabeledEditText.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/src/main/java/com/lib/app/textview/floatlabelededittext/Utils.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/src/main/java/com/lib/app/textview/textdrawable/TextDrawable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/src/main/java/com/lib/app/textview/textdrawable/util/ColorGenerator.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/src/main/java/com/lib/app/textview/titanic/Titanic.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/src/main/java/com/lib/app/textview/titanic/TitanicTextView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/src/main/java/com/lib/app/textview/tokenautocomplete/FilteredArrayAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/src/main/java/com/lib/app/textview/tokenautocomplete/TokenCompleteTextView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/src/main/res/drawable-sw600dp/wave.png" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/src/main/res/values/autofit_attrs.xml" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/lib/src/main/res/values/floatlabeledittext_attrs.xml" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

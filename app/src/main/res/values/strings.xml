@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">widget</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="loading">Loading</string>
+    <string name="email_prompt">enter a name or email address</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="input_hint">text</string>
+    <string name="label_normal">Normal:</string>
+    <string name="label_autofit">Autofit:</string>
+    <string name="hint">Title</string>
+    <string name="text_fill">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean at erat ante. In porta odio vel turpis viverra mattis. Maecenas porta porttitor magna vitae feugiat. Morbi ullamcorper dolor eu tellus porta eleifend. Praesent ultricies consequat urna, id congue diam pulvinar et. Nulla elementum risus ut tristique interdum. Phasellus ullamcorper elit eu fringilla blandit.Phasellus vitae efficitur nisl. Integer id felis sit amet nibh mollis interdum ut quis justo. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nulla ac dignissim augue. Pellentesque ac tortor id leo dictum mattis finibus vitae dolor. Sed pharetra aliquam maximus. Vivamus ut tristique purus. Mauris commodo nisl quam, at egestas dui elementum a. Maecenas finibus, odio in bibendum blandit, nunc diam feugiat ipsum, id scelerisque purus tortor rutrum quam. Maecenas id interdum diam, ac efficitur orci. Sed nibh elit, ultrices ultricies scelerisque vitae, malesuada faucibus eros. Ut metus enim, sagittis non sapien sed, venenatis vehicula sapien. Cras rhoncus egestas dolor. Phasellus mattis ex nec congue porttitor. Suspendisse tempor lacus sit amet lectus malesuada, vel aliquam elit scelerisque.</string>
+    <string name="example">This is an example</string>
+
+
+    <string name="message">Jumping like a bawss…</string>
+    <string name="label_1">Append Jumping Dots</string>
+    <string name="label_2">Make first word jump</string>
+
+    <string name="title_activity_main">RichEditor Demo</string>
+    <string name="shimmer">Shimmer</string>
+    <string name="toggle_animation">Toggle animation</string>
+
+</resources>

@@ -1,0 +1,43 @@
+<manifest
+    package="com.lib.app"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:name="com.lib.app.textview.TextViewMainActivity"/>
+        <activity android:name="com.lib.app.textview.bubbleview.TextViewBubbleMainActivity"/>
+        <activity android:name="com.lib.app.textview.chatmessageview.ChatMainActivity"/>
+        <activity android:name="com.lib.app.textview.tagview.TagViewMainActivity"/>
+        <activity android:name="com.lib.app.textview.trianglerectanglelabelview.TriangleRectangleMainActivity"/>
+        <activity android:name="com.lib.app.textview.autofit.AutoFitActivity"/>
+        <activity android:name="com.lib.app.textview.autoscale.AutoScaleMainActivity"/>
+        <activity android:name="com.lib.app.textview.babushkatext.BabushkatextMainActivity"/>
+        <activity android:name="com.lib.app.textview.bubbletextview.BubbleTextViewMainActivity"/>
+        <activity android:name="com.lib.app.textview.codeinputlib.CodeInputMainActivity"/>
+        <activity android:name="com.lib.app.textview.expandabletextview.ExpandableTextviewDemoActivity"/>
+        <activity android:name="com.lib.app.textview.floatlabelededittext.FloatableEdittextMainActivity"/>
+        <activity android:name="com.lib.app.textview.jumpingbeans.JumpingBeanMainActivity"/>
+        <activity android:name="com.lib.app.textview.parkedtextview.ParkedMainActivity"/>
+        <activity android:name="com.lib.app.textview.richeditor.RichEditorMainActivity"/>
+        <activity android:name="com.lib.app.textview.shimmer.ShimmerMainActivity"/>
+        <activity android:name="com.lib.app.textview.sizeadjustingtextview.SizeAdjustingMainActivity"/>
+        <activity android:name="com.lib.app.textview.textdrawable.TextDrawableMainActivity"/>
+        <activity android:name="com.lib.app.textview.titanic.TitanicMainActivity"/>
+        <activity android:name="com.lib.app.textview.textdrawable.ListActivity"/>
+        <activity android:name="com.lib.app.textview.tokenautocomplete.TokenActivity"/>
+    </application>
+
+</manifest>
